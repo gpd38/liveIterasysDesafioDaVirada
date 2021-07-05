@@ -2,10 +2,10 @@
 
 ### Conteúdo
   - 1 Começe Aqui
-     - 1. Agenda / Programação do Evento
+     - Agenda / Programação do Evento
 
   - 2 Competição
-     - 1. Inscreva-se no CrowdTest - Base2 - Desafio da Virada
+     - Inscreva-se no CrowdTest - Base2 - Desafio da Virada
 
   - 2 de Julho (Noite)
      - 19h00 - Abertura
