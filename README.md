@@ -50,8 +50,8 @@
      - 15h00 - Fábio Araújo - Automação de API REST usando Cypress - Sala Emerson Rios
      - 15h00 - Painel: Cypress - Sala Grace Hopper
      - 16h30 - Ernesto Barbosa - Inclua seus Testes em um Pipeline de Integração Contínua - Sala Emerson Rios
-     - 11. 16h30 - Painel: Compartilhamento de conhecimento na comunidade de QA - Sala Grace Hopper
-     - 12. 17h30 - Silas Marques - Analista de Teste na Pandemia - Sala Leonardo Molinari
-     - 13. 17h30 - André de Oliveira - Mutação - Quem Testa o Teste? - Sala Emerson Rios
-     - 14. 18h30 - Marcelo de Bittencourt - JUnit 5 Hands-on - Sala Emerson Rios
+     - 16h30 - Painel: Compartilhamento de conhecimento na comunidade de QA - Sala Grace Hopper
+     - 17h30 - Silas Marques - Analista de Teste na Pandemia - Sala Leonardo Molinari
+     - 17h30 - André de Oliveira - Mutação - Quem Testa o Teste? - Sala Emerson Rios
+     - 18h30 - Marcelo de Bittencourt - JUnit 5 Hands-on - Sala Emerson Rios
 
